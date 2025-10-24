@@ -6,8 +6,8 @@ This program was mostly just to get me back into Python programming after focusi
 the exe file was too large for Github so you'll have to make sure you have Python 3.8+ installed. Then install the required packages:
 pip install torch torchvision pillow requests
 
-Save the code in a file named snip_app.py (or any name you prefer), then run: 
-python snip_app.py
+Save the code in a file named image_detection.py (or any name you prefer), then run: 
+python image_detection.py
 
 or you could use pyinstaller to convert it into an exe file for windows
 
